@@ -1,16 +1,23 @@
 # Micasaestucasa
 
+
 PROJECT DESCRIPTION
-Group Project ID: 2269 - This project uses Python in conjunction with Microsoft Excel to run a webscraper, download a CSV file from a scraped online database (Inside AirBnB),  and run some high level data analysis on the downloaded CSV file. The final analysis is displayed in an "input" excel file that is automatically created and used as a source of input for the webscraper. All downloaded CSV files and input files are also automatically created and included in a specific folder in the desktop directory of the user for ease of use)
+
+Group Project ID: 2269
+This project uses Python in conjunction with Microsoft Excel to run a webscraper, download a CSV file from a scraped online database (Inside AirBnB),  and run some high level data analysis on the downloaded CSV file. The final analysis is displayed in an "input" excel file that is automatically created and used as a source of input for the webscraper. All downloaded CSV files and input files are also automatically created and included in a specific folder in the desktop directory of the user for ease of use)
+
 
 WHO IS BEHIND THIS PROJECT?
+
 This is a mandatory group project part of the course "Programming with Advanced Computer Languages" supervised by Dr. Mario Silic.
 
 The group project was done in a group of two people: 
 - Antoine Rabilloud (Student-ID:***********) with the pseudonym "Rabibi"
 - Giovanni Grosso (Student-ID: ***********) with the pseudonym "BigJohn"
 
+
 SHOPPING LIST TO ENSURE THE PROGRAM RUNS
+
 Setting up to run the code:
 In order to run the project the user will need: 
 1- Anaconda3
@@ -18,7 +25,9 @@ In order to run the project the user will need:
 2- Microsoft Excel (used as a way for the users to input the type of data they want downloaded from the online database)
 3- A decent internet connection
 
+
 MAIN LIBRAIRIES USED
+
 The coding was done using Spyder from which we imported several python librairies/packages listed bellow: 
 Openpyxl - used to read our input excel file for the webscraper and used to write on the final created excel file with our analysis
 Beautiful Soup - used for parsing HTML and XML documents (webpages). was used to extract data from HTML (our csv data file)
@@ -28,6 +37,7 @@ Pandas - Was used in conjunction with Numpy for our data manipulation and analys
 Numpy - helped us analyse the arrays of data that we downloaded as a csv and used to perform high-level mathematical functions that we operated on these arrays
 
 IDEA OF THE PROJECT / SITUATION
+
 The goal was to give simple analysis tools to a user who does not specifically know how to code (the idea being to recreate a real life work environment where you the "coder" has to adjust to the technical limits of the people he/she needs to deliver a working solution to).
 
 The file was then modified to only cover the last accessible years (2007 - 16) and eliminated pack of countries (European Union etc.) to only have individual countries.
