@@ -69,7 +69,7 @@ The webiste gathers monthly data from AIRBNB listings all over the world. When o
 For a smooth test we have also decided **to already prefill the input excel file so that the user can download some data to test immediately without having to input anything in the file itself.** Should the user want to analyse data for another city or month, he/she can input the variables for the webscraper directly through the created excel.
 
 ###### **CODE EXPLANATION**
-**The code we created should: **
+**The code we created should:**
 1. Set up a directory on the user's desktop where a "micasaestucasa" folder will be automatically created (with subfolders for the different excel and CSV files used). 
 2. An Excel file used for input will be automatically created and prefilled with needed variables to run the webscraper. The excel also contains a detailed how-to guide so that any person wanting to change the scope of the analysis (city/country, year, month) can do so whilst ensuring that the code continues running smoothly. 
 3. Once the excel file is created the code takes the prefilled input OR the user's new input (in the input file) and starts scrapping the web to get the right CSV file for our analysis. (NOTE that this might take up to a minute depending on the connection)
