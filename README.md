@@ -14,7 +14,7 @@ The file containing the code ____________________ also contains extensive commen
 ## PROJECT DESCRIPTION
 
 **Group Project ID: 2269**
-- This project uses Python in conjunction with Microsoft Excel to run a webscraper, download a CSV file from a scraped online database (Inside AirBnB),  and run some high level data analysis on the downloaded CSV file. The final analysis is displayed in an "input" excel file that is automatically created and used as the MAIN source of input for the webscraper. All downloaded CSV files and input files are also automatically created and included in a specific newly created folder in the desktop directory of the user for ease of use.
+- **This project uses Python in conjunction with Microsoft Excel** to run a webscraper, download a CSV file from a scraped online database (Inside AirBnB),  and run some high level data analysis on the downloaded CSV file. The final analysis is displayed in an "input" excel file that is automatically created and used as the MAIN source of input for the webscraper. All downloaded CSV files and input files are also automatically created and included in a specific newly created folder in the desktop directory of the user for ease of use.
 
 
 ###### **WHO IS BEHIND THIS PROJECT?**
