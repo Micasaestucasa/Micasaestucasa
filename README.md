@@ -22,8 +22,8 @@ The file containing the code ____________________ also contains extensive commen
 **This is a mandatory group project part of the course "Programming with Advanced Computer Languages" supervised by Dr. Mario Silic.**
 
 The group project was done in a group of two people: 
-- Antoine Rabilloud (Student-ID:***********) with the pseudonym "Rabibi"
-- Giovanni Grosso (Student-ID: ***********) with the pseudonym "BigJohn"
+- Antoine R. (Student-ID:***********) with the pseudonym "Rabibi"
+- Giovanni G. (Student-ID: ***********) with the pseudonym "BigJohn"
 
 
 ###### **SHOPPING LIST TO RUN THE PROGRAM**
