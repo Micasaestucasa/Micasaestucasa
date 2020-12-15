@@ -79,6 +79,9 @@ For a smooth test we have also decided **to already prefill the input excel file
 7. The program then uses pythons capabilities (pandas, numpy librairies specifically) to analyse the big data base (WAY faster than excel)
 8. the program returns the results of the analysis on the SPYDER dashboard AND directly on the file used for input
 
+![Step 1.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step1.jpg)
+![Step 2.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step2.jpg)
+
 
 We hope you will enjoy this new project, 
 
