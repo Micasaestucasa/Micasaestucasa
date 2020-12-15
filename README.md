@@ -30,7 +30,7 @@ The group project was done in a group of two people:
 
 **In order to run the project the user will need:**
  1. A computer (yes, yes...)
- 2. Anaconda3
+ 2. Anaconda3 (download using this [LINK](https://www.anaconda.com/products/individual))
      - Sypder (running through Anaconda3) which will be used as the main tool to run our code
  3. Microsoft Excel (used as a way for the users to input the type of data they want downloaded from the online database)
  4. A decent internet connection
@@ -98,3 +98,7 @@ We hope you will enjoy this new project,
 Best Regards,
 
 Rabibi and BigJohn 
+
+
+![Step Guada.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/Guada1.jpg)
+
