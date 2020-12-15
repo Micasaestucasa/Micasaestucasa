@@ -29,7 +29,7 @@ The group project was done in a group of two people:
 ###### **SHOPPING LIST TO RUN THE PROGRAM**
 
 **In order to run the project the user will need:**
- 1. A computer (yes, yes...)
+ 1. A computer (yes, yes...) and not one of [these](https://gizmodo.com/the-16-worst-failed-computers-of-all-time-5789924)
  2. Anaconda3 (download using this [LINK](https://www.anaconda.com/products/individual))
      - Sypder (running through Anaconda3) which will be used as the main tool to run our code
  3. Microsoft Excel (used as a way for the users to input the type of data they want downloaded from the online database)
