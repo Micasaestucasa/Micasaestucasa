@@ -13,11 +13,11 @@ The file containing the code ____________________ also contains extensive commen
 
 ## PROJECT DESCRIPTION
 
-Group Project ID: 2269
+**Group Project ID: 2269**
 - This project uses Python in conjunction with Microsoft Excel to run a webscraper, download a CSV file from a scraped online database (Inside AirBnB),  and run some high level data analysis on the downloaded CSV file. The final analysis is displayed in an "input" excel file that is automatically created and used as the MAIN source of input for the webscraper. All downloaded CSV files and input files are also automatically created and included in a specific newly created folder in the desktop directory of the user for ease of use.
 
 
-###### WHO IS BEHIND THIS PROJECT?
+###### **WHO IS BEHIND THIS PROJECT?**
 
 This is a mandatory group project part of the course "Programming with Advanced Computer Languages" supervised by Dr. Mario Silic.
 
@@ -26,7 +26,7 @@ The group project was done in a group of two people:
 - Giovanni Grosso (Student-ID: ***********) with the pseudonym "BigJohn"
 
 
-###### SHOPPING LIST TO RUN THE PROGRAM
+###### **SHOPPING LIST TO RUN THE PROGRAM**
 
 In order to run the project the user will need: 
  1. A computer (yes, yes...)
@@ -36,7 +36,7 @@ In order to run the project the user will need:
  4. A decent internet connection
 
 
-###### MAIN PYTHON LIBRAIRIES USED
+###### **MAIN PYTHON LIBRAIRIES USED**
 
 The coding was done using Spyder from which we imported several python librairies/packages listed bellow: 
 - Openpyxl - used to read our input excel file for the webscraper and used to write on the final created excel file with our analysis
@@ -46,27 +46,28 @@ The coding was done using Spyder from which we imported several python librairie
 - Pandas - Was used in conjunction with Numpy for our data manipulation and analysis (specificaly when creating numerical tables and time series)
 - Numpy - helped us analyse the arrays of data that we downloaded as a csv and used to perform high-level mathematical functions that we operated on these arrays
 
-###### IDEA OF THE PROJECT / SITUATION
+###### **IDEA OF THE PROJECT / SITUATION**
 **The goal was to give simple analysis tools to a user who does not specifically know how to code** (the idea being to recreate a real life work environment where - you, the "coder" - has to adjust to the technical limits of the people he/she needs to deliver a working solution to).
 once the data is downloaded the person should be able to run further analysis on excel through the files that were created. ( - you, the coder - generates an analysis that helps 80% of the people that will use the program but give the possibility to the users to make further analysis (on excel!) if desired). 
 
 
-###### THE DATABASE/WEBSITE
+###### **THE DATABASE/WEBSITE**
 To run this program we go on the [INSIDE AIRBNB](http://insideairbnb.com/get-the-data.html) website.
 The webiste gathers monthly data from AIRBNB listings all over the world. When on the website, several Excel and CSV files with different data points are available. We decide to use the "listing.csv" files for our analysis as they were identified as the best for data visualizations by the website itself and seemed to contain the most interesting datapoints. 
 
-### TESTING THE PROJECT
+### **TESTING THE PROJECT**
+###### **SET-UP**
 - First ensure that you have all the "shopping list items" needed to run the code. (This is highlighted in the **SHOPPING LIST TO RUN THE PROGRAM** section of this ReadMe document. 
 - Second, look for our code on our Github page  (available in the __________________ file of our directory)
 - Third Copy and paste the code in the SPYDER notebook and run the program
 
 **We detail below the different segments of our project and provide you with a detailed decscription of what should happen what other things the user can do to further test our code and "play around".**
 
-###### INPUT FILE
+###### **INPUT FILE**
 We use an input excel file as our main source of input to select the specific city/country, year and month that interests us for our analysis (for more clarity only a select number of cities are available for selection)
 For a smooth test we have also decided **to already prefill the input excel file so that the user can download some data to test immediately without having to input anything in the file itself.** Should the user want to analyse data for another city or month, he/she can input the variables for the webscraper directly through the created excel.
 
-###### CODE EXPLANATION
+###### **CODE EXPLANATION**
 The code we created should: 
 1. Set up a directory on the user's desktop where a "micasaestucasa" folder will be automatically created (with subfolders for the different excel and CSV files used). 
 2. An Excel file used for input will be automatically created and prefilled with needed variables to run the webscraper. The excel also contains a detailed how-to guide so that any person wanting to change the scope of the analysis (city/country, year, month) can do so whilst ensuring that the code continues running smoothly. 
