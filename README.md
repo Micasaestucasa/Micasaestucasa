@@ -19,7 +19,7 @@ The file containing the code ____________________ also contains extensive commen
 
 ###### **WHO IS BEHIND THIS PROJECT?**
 
-This is a mandatory group project part of the course "Programming with Advanced Computer Languages" supervised by Dr. Mario Silic.
+**This is a mandatory group project part of the course "Programming with Advanced Computer Languages" supervised by Dr. Mario Silic.**
 
 The group project was done in a group of two people: 
 - Antoine Rabilloud (Student-ID:***********) with the pseudonym "Rabibi"
@@ -28,7 +28,7 @@ The group project was done in a group of two people:
 
 ###### **SHOPPING LIST TO RUN THE PROGRAM**
 
-In order to run the project the user will need: 
+**In order to run the project the user will need:**
  1. A computer (yes, yes...)
  2. Anaconda3
      - Sypder (running through Anaconda3) which will be used as the main tool to run our code
@@ -38,7 +38,7 @@ In order to run the project the user will need:
 
 ###### **MAIN PYTHON LIBRAIRIES USED**
 
-The coding was done using Spyder from which we imported several python librairies/packages listed bellow: 
+**The coding was done using Spyder from which we imported several python librairies/packages listed bellow:**
 - Openpyxl - used to read our input excel file for the webscraper and used to write on the final created excel file with our analysis
 - Beautiful Soup - used for parsing HTML and XML documents (webpages). It was used to extract data from HTML (our csv data file)
 - Requests - Used in conjunction to Beautiful Soup to get the specifc website we want to analyse
@@ -52,11 +52,12 @@ once the data is downloaded the person should be able to run further analysis on
 
 
 ###### **THE DATABASE/WEBSITE**
-To run this program we go on the [INSIDE AIRBNB](http://insideairbnb.com/get-the-data.html) website.
+**To run this program we go on the [INSIDE AIRBNB](http://insideairbnb.com/get-the-data.html) website.**
 The webiste gathers monthly data from AIRBNB listings all over the world. When on the website, several Excel and CSV files with different data points are available. We decide to use the "listing.csv" files for our analysis as they were identified as the best for data visualizations by the website itself and seemed to contain the most interesting datapoints. 
 
 ### **TESTING THE PROJECT**
 ###### **SET-UP**
+**To run the project please:**
 - First ensure that you have all the "shopping list items" needed to run the code. (This is highlighted in the **SHOPPING LIST TO RUN THE PROGRAM** section of this ReadMe document. 
 - Second, look for our code on our Github page  (available in the __________________ file of our directory)
 - Third Copy and paste the code in the SPYDER notebook and run the program
@@ -64,11 +65,11 @@ The webiste gathers monthly data from AIRBNB listings all over the world. When o
 **We detail below the different segments of our project and provide you with a detailed decscription of what should happen what other things the user can do to further test our code and "play around".**
 
 ###### **INPUT FILE**
-We use an input excel file as our main source of input to select the specific city/country, year and month that interests us for our analysis (for more clarity only a select number of cities are available for selection)
+**We use an input excel file as our main source of input to select the specific city/country, year and month that interests us for our analysis (for more clarity only a select number of cities are available for selection)**
 For a smooth test we have also decided **to already prefill the input excel file so that the user can download some data to test immediately without having to input anything in the file itself.** Should the user want to analyse data for another city or month, he/she can input the variables for the webscraper directly through the created excel.
 
 ###### **CODE EXPLANATION**
-The code we created should: 
+**The code we created should: **
 1. Set up a directory on the user's desktop where a "micasaestucasa" folder will be automatically created (with subfolders for the different excel and CSV files used). 
 2. An Excel file used for input will be automatically created and prefilled with needed variables to run the webscraper. The excel also contains a detailed how-to guide so that any person wanting to change the scope of the analysis (city/country, year, month) can do so whilst ensuring that the code continues running smoothly. 
 3. Once the excel file is created the code takes the prefilled input OR the user's new input (in the input file) and starts scrapping the web to get the right CSV file for our analysis. (NOTE that this might take up to a minute depending on the connection)
