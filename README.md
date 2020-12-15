@@ -85,11 +85,8 @@ For a smooth test we have also decided **to already prefill the input excel file
 ![Step 2.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step2.jpg)
 ###### Step 3
 ![Step 3.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step3.jpg)
-###### Step 4 5 AND 6
+###### Step 4, 5, and 6
 ![Step 4_5_6.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step4_5_6.jpg)
-###### Step 5
-
-###### Step 6
 
 ###### Step 7
 
