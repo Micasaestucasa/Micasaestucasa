@@ -97,10 +97,8 @@ For a smooth test we have also decided **to already prefill the input excel file
 ![Step 3.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step3.jpg)
 ###### Step 4, 5, and 6
 ![Step 4_5_6.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step4_5_6.jpg)
-
-###### Step 7
-
-###### Step 8
+###### Step 7 and 8
+![Step 7_8.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/step7_8.jpg)
 
 
 We hope you will enjoy this new project, 
@@ -110,5 +108,5 @@ Best Regards,
 Rabibi and BigJohn 
 
 
-![Step Guada.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/Guada1.jpg)
-
+![Guada.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/Guada1.jpg)
+![Gigivani.](https://github.com/Micasaestucasa/Micasaestucasa/blob/main/Gigivani1.jpg)
